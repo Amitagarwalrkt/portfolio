@@ -1,6 +1,6 @@
 <h2 align="center">
   Amit Agarwal | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+  <a href="https://www.rahuljha.tech/" target="_blank">amitagarwal.netlify.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
