@@ -19,7 +19,7 @@ You can fork this repo to modify and make changes according to your need. Please
 
 ## Built With
 
-My personal portfolio website <a href="https://www.amitagarwalportfolio.netlify.app/" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://www.amitagarwalportfolio.netlify.app/" target="_blank">amitagarwalportfolio.netlify.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
