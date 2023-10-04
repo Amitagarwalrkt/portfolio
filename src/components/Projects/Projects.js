@@ -41,10 +41,10 @@ function Projects() {
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={PrivateChat}
-              title="Private Chat"
-              description="A Personal Chat Application to share resources and hangout with friends build with react.js, css, and Firebase. Have features which allows user for realtime messaging, image sharing and search user."
-              ghLink="#"
-              demoLink="https://chat-app-rahuljha4171.vercel.app/"
+              title="Chat Bot Portfolio"
+              description="A Personal Chat Bot Application to share resources and hangout with friends build with HTML, css, and javasript. Have features which allows user for now about me by using predefing keywords."
+              ghLink="https://github.com/Amitagarwalrkt/ChatBotportfolio"
+              demoLink="https://amitchatbotpf.netlify.app/"
             />
           </Col>
 
