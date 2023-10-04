@@ -26,8 +26,8 @@ function Home2() {
               </i>{" "}
               who loves solving problems and building Websites.
               <br />
-              <br />Currently I am pursuing my BCA at Graphic Era Hill University{" "}
-              <i className="primary-header"></i>. I love to learn
+              <br />Currently I am pursuing BCA at Graphic Era Hill University{" "}
+              <i className="primary-header"></i>. I love to explore
               new things.
               <br />
               <br />I am more interested in building new
