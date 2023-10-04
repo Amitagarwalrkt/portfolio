@@ -38,7 +38,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="whatsapp"
-                href="https://api.whatsapp.com/+919756775633"
+                href="https://wa.me/919756775633"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="whatsapp"
