@@ -1,6 +1,6 @@
 <h2 align="center">
   Amit Agarwal | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+  <a href="https://www.rahuljha.tech/" target="_blank">amitagarwalportfolio.netlify.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -11,7 +11,7 @@
 <div align="center">
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/amitagarwalrkt/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </div>
 
@@ -19,7 +19,7 @@ You can fork this repo to modify and make changes according to your need. Please
 
 ## Built With
 
-My personal portfolio website <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://www.amitagarwalportfolio.netlify.app/" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
@@ -61,9 +61,9 @@ You will find all the components used and you can edit your information accordin
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/amitagarwalrkt/Portfolio/issues">Report A Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
+    <a href="https://github.com/amitagarwalrkt/Portfolio/issues">Request A Feature</a>
 
 </h3>
 
