@@ -95,11 +95,11 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://blog.rahuljha.tech/"
+                href="https://amitagarwalrkt.editorx.io/amitpf"
                 target="_blank"
                 rel="noreferrer"
               >
-                Blogs
+                website
               </Nav.Link>
             </Nav.Item>
           </Nav>
