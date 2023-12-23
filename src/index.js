@@ -6,7 +6,8 @@ import reportWebVitals from "./reportWebVitals";
 import { ThemeProvider } from "./Context/theme";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5537711898298568"
+     crossorigin="anonymous"></script>
 root.render(
   <React.StrictMode>
     <ThemeProvider>

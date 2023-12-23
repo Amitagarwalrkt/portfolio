@@ -9,6 +9,8 @@ import {
   AiOutlineMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5537711898298568"
+     crossorigin="anonymous"></script>
 
 function Home2() {
   return (
